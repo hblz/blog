@@ -1,4 +1,4 @@
-antd升级问题
+antd按需加载跟webpack分块打包的冲突
 ============================
 antd升级到3.x遇到一个问题按需加载问题，即像antd官网所说的那样；使用 babel-plugin-import（推荐）
 ```js
